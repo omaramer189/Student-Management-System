@@ -1,0 +1,28 @@
+├── pom.xml
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/studentms/
+│   │   │       ├── StudentManagementSystemApplication.java
+│   │   │       ├── model/
+│   │   │       │   ├── User.java
+│   │   │       │   ├── Assignment.java
+│   │   │       │   └── Announcement.java
+│   │   │       ├── repository/
+│   │   │       │   ├── UserRepository.java
+│   │   │       │   ├── AssignmentRepository.java
+│   │   │       │   └── AnnouncementRepository.java
+│   │   │       ├── service/
+│   │   │       │   ├── UserService.java
+│   │   │       │   ├── AssignmentService.java
+│   │   │       │   └── AnnouncementService.java
+│   │   │       └── controller/
+│   │   │           ├── UserController.java
+│   │   │           ├── AssignmentController.java
+│   │   │           └── AnnouncementController.java
+│   │   └── resources/
+│   │       └── application.properties
+
+    private String message;
+    private String author;
+}
