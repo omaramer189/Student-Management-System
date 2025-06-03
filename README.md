@@ -27,9 +27,6 @@ A mobile application that allows students to view grades and assignments, and le
 - Connected frontend and backend via REST APIs
 - Used GitLab for version control and team collaboration
 
-## Screenshots
-
-_Add screenshots of the app UI and maybe a sample API call result here_
 
 ## How to Run
 
